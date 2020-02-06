@@ -1,4 +1,5 @@
 module.exports = {
+  publicPath: "go-living-website",
   devServer: {
     proxy: {
       "/retrieve": {
