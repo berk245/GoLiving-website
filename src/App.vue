@@ -112,7 +112,7 @@ export default {
   position: absolute;
   top: 0;
   left: 0;
-  height: 3rem;
+  height: 6vh;
   width: 100%;
   border-bottom: #f4745d solid;
 
@@ -122,7 +122,7 @@ export default {
     font-family: "Lato", sans-serif;
     left: 3%;
     width: 20%;
-    bottom: 35%;
+    bottom: 25%;
     letter-spacing: 3.5px;
   }
 }
