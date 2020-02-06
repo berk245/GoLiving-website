@@ -2,6 +2,7 @@
   "name": "go-living-website",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://berk245.github.io/GoLiving-website",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
