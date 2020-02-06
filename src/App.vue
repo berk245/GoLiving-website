@@ -106,8 +106,7 @@ export default {
 
 <style lang="scss">
 @import url("https://fonts.googleapis.com/css?family=Lato&display=swap");
-.container {
-}
+
 .header {
   position: absolute;
   top: 0;
